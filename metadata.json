@@ -1,0 +1,5 @@
+{
+  "name": "CoverGen AI",
+  "description": "An intelligent book cover generator that analyzes book details to create professional prompts and visuals using Gemini.",
+  "requestFramePermissions": []
+}
